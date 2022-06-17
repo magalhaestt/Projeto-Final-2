@@ -1,0 +1,7 @@
+o que falta?
+
+1 - Fazer algoritmo para checar se as respostas do aluno foram todas VVV ou FFF
+2 - Criar menu principal
+3 - ajeitar exception 
+
+VVVVVVVVVVVV
